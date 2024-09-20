@@ -26,40 +26,6 @@
 // console.log(x);
 
 
-
-// // chapter no 11
-// //Q1
-// if (variable1 !== variable2) {
-
-// }
-// //Q2
-// if (variable1 >= variable2) {
-    
-// }
-// //Q3
-// var number = 5;
-
-// if (number !== 10) {
-//     number = 10; 
-// }
-
-// console.log(number);
-// //Q4
-// var number1 = 5; 
-// var number2 = 10; 
-
-// if (number1 !== number2) {
-//     alert("Congratulations!"); 
-// }
-// //Q5
-// var firstName = prompt("Please enter your first name:");
-// var anotherName = "John"; 
-// if (firstName !== anotherName) {
-//     alert("No match");
-// }
-
-
-
 // //Chapter no 12
 // //Q1
 // var firstValue = 10;
@@ -182,54 +148,6 @@
 //         alert("Both conditions passed!");
 //     }
 // }
-
-//chapter 9-11
-// Q1
-// var cityName = prompt("Enter the city name:");
-
-
-// if (cityName === "karachi") {
-//     alert("Welcome to the city of lights!");
-// }
-// Q2
-// var gender = prompt("Enter your gender (male/female):");
-
-
-// if (gender === "male") {
-//     alert("Good Morning Sir.");
-// } else if (gender === "female") {
-//     alert("Good Morning Ma'am.");
-// } else {
-//     alert("Invalid input. Please enter 'male' or 'female'.");
-// }
-// //Q3
-
-// var color = prompt("Enter the color of the road traffic signal (Red/Yellow/Green):");
-
-// switch (color) {
-//     case "RED":
-//         alert("Must Stop");
-//         break;
-//     case "YELLOW":
-//         alert("Ready to move");
-//         break;
-//     case "GREEN":
-//         alert("Move now");
-//         break;
-//     default:
-//         alert("Invalid input. Please enter 'Red', 'Yellow', or 'Green'.");
-// }
-// //Q4
-// var remainingFuel = parseFloat(prompt("Enter the remaining fuel in your car (in liters):"));
-
-
-// if (remainingFuel < 0.25) {
-//     alert("Please refill the fuel in your car.");
-// } else {
-//     alert("You have sufficient fuel.");
-// }
-
-
 
 //chapter 12-13
 //Q1
